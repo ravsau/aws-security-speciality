@@ -19,3 +19,5 @@ simplifies the configuration of your load balancer by providing a recommended ci
 You can configure these new features with the AWS Management Console, API, or Command Line Interface (CLI).
 ## References
 https://en.wikipedia.org/wiki/Forward_secrecy
+
+https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-ssl-security-policy.html
